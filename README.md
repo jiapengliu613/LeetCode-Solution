@@ -11,3 +11,4 @@
 ### 237. [Delete Node in a Linked List](https://github.com/jiapengliu613/LeetCode-Solution/blob/master/Algorithm/Delete%20Node%20in%20a%20Linked%20List.java)
 ### 104. [Maximum Depth of Binary Tree](https://github.com/jiapengliu613/LeetCode-Solution/blob/master/Algorithm/Maximum%20Depth%20of%20Binary%20Tree.java)
 ### 155. [Min Stack](https://github.com/jiapengliu613/LeetCode-Solution/blob/master/Algorithm/Min%20Stack.java)
+### 191. [Number of 1 Bits](https://github.com/jiapengliu613/LeetCode-Solution/blob/master/Algorithm/Number%20of%201%20Bits.java)
