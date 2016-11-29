@@ -9,3 +9,4 @@
 ### 6. [ZigZag Conversion](https://github.com/jiapengliu613/LeetCode-Solution/blob/master/Algorithm/ZigZag%20Conversion.java)
 ### 13. [Roman to Integer](https://github.com/jiapengliu613/LeetCode-Solution/blob/master/Algorithm/Roman%20to%20Integer.java)
 ### 237. [Delete Node in a Linked List](https://github.com/jiapengliu613/LeetCode-Solution/blob/master/Algorithm/Delete%20Node%20in%20a%20Linked%20List.java)
+### 104. [Maximum Depth of Binary Tree](https://github.com/jiapengliu613/LeetCode-Solution/blob/master/Algorithm/Maximum%20Depth%20of%20Binary%20Tree.java)
