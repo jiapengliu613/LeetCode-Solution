@@ -19,3 +19,4 @@
 ### 169. [Majority Element](https://github.com/jiapengliu613/LeetCode-Solution/blob/master/Algorithm/Majority%20Element.java)
 ### 258. [Add Digits](https://github.com/jiapengliu613/LeetCode-Solution/blob/master/Algorithm/Add%20Digits.java)
 ### 226. [Invert Binary Tree](https://github.com/jiapengliu613/LeetCode-Solution/blob/master/Algorithm/Invert%20Binary%20Tree.java)
+### 5. [Longest Palindromic Substring](https://github.com/jiapengliu613/LeetCode-Solution/blob/master/Algorithm/Longest%20Palindromic%20Substring.java)
