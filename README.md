@@ -18,3 +18,4 @@
 ### 3. [Longest Substring Without Repeating Characters](https://github.com/jiapengliu613/LeetCode-Solution/blob/master/Algorithm/Longest%20Substring%20Without%20Repeating%20Characters.java)
 ### 169. [Majority Element](https://github.com/jiapengliu613/LeetCode-Solution/blob/master/Algorithm/Majority%20Element.java)
 ### 258. [Add Digits](https://github.com/jiapengliu613/LeetCode-Solution/blob/master/Algorithm/Add%20Digits.java)
+### 226. [Invert Binary Tree](https://github.com/jiapengliu613/LeetCode-Solution/blob/master/Algorithm/Invert%20Binary%20Tree.java)
