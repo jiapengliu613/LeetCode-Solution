@@ -16,3 +16,4 @@
 ### 151. [Reverse Words in a String](https://github.com/jiapengliu613/LeetCode-Solution/blob/master/Algorithm/Reverse%20Words%20in%20a%20String.java)
 ### 146. [LRU Cache](https://github.com/jiapengliu613/LeetCode-Solution/blob/master/Algorithm/LRU%20Cache.java) ``Need Review``
 ### 3. [Longest Substring Without Repeating Characters](https://github.com/jiapengliu613/LeetCode-Solution/blob/master/Algorithm/Longest%20Substring%20Without%20Repeating%20Characters.java)
+### 169. [Majority Element](https://github.com/jiapengliu613/LeetCode-Solution/blob/master/Algorithm/Majority%20Element.java)
