@@ -23,3 +23,4 @@
 ### 388. [Longest Absolute File Path](https://github.com/jiapengliu613/LeetCode-Solution/blob/master/Algorithm/Longest%20Absolute%20File%20Path.java) ``Need Review``
 ### 283. [Move Zeros](https://github.com/jiapengliu613/LeetCode-Solution/blob/master/Algorithm/Move%20Zeros.java)
 ### 141. [Linked List Cycle](https://github.com/jiapengliu613/LeetCode-Solution/blob/master/Algorithm/Linked%20List%20Cycle.java)
+### 66. [Plus One](https://github.com/jiapengliu613/LeetCode-Solution/blob/master/Algorithm/Plus%20One.java)
