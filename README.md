@@ -47,3 +47,4 @@
 ### 21. [Merge Two Sorted Lists](https://github.com/jiapengliu613/LeetCode-Solution/blob/master/Algorithm/Merge%20Two%20Sorted%20Lists.java)
 ### 160. [Intersection of Two Linked Lists](https://github.com/jiapengliu613/LeetCode-Solution/blob/master/Algorithm/Intersection%20of%20Two%20Linked%20Lists.java)
 ### 9. [Palindrome Number](https://github.com/jiapengliu613/LeetCode-Solution/blob/master/Algorithm/Palindrome%20Number.java)
+### 139. [Word Break](https://github.com/jiapengliu613/LeetCode-Solution/blob/master/Algorithm/Word%20Break.java)
