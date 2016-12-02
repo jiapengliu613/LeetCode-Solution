@@ -36,3 +36,4 @@
 ### 238. [Product of Array Except Self](https://github.com/jiapengliu613/LeetCode-Solution/blob/master/Algorithm/Product%20of%20Array%20Except%20Self.java)
 ### 338. [Counting Bits](https://github.com/jiapengliu613/LeetCode-Solution/blob/master/Algorithm/Counting%20Bits.java) ``Need Review``
 ### 42. [Trapping Rain Water](https://github.com/jiapengliu613/LeetCode-Solution/blob/master/Algorithm/Trapping%20Rain%20Water.java) ``Need Review``
+### 217. [Contains Duplicate](https://github.com/jiapengliu613/LeetCode-Solution/blob/master/Algorithm/Contains%20Duplicate.java)
