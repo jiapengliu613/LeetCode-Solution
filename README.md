@@ -40,3 +40,4 @@
 ### 412. [Fizz Buzz](https://github.com/jiapengliu613/LeetCode-Solution/blob/master/Algorithm/Fizz%20Buzz.java)
 ### 7. [Reverse Integer](https://github.com/jiapengliu613/LeetCode-Solution/blob/master/Algorithm/Reverse%20Integer.java) ``Need Review (overflow case)``
 ### 171. [Excel Sheet Column Number](https://github.com/jiapengliu613/LeetCode-Solution/blob/master/Algorithm/Excel%20Sheet%20Column%20Number.java)
+### 202. [Happy Number](https://github.com/jiapengliu613/LeetCode-Solution/blob/master/Algorithm/Happy%20Number.java)
