@@ -32,3 +32,4 @@
 ### 328. [Odd Even Linked List](https://github.com/jiapengliu613/LeetCode-Solution/blob/master/Algorithm/Odd%20Even%20Linked%20List.java)
 ### 12. [Integer to Roman](https://github.com/jiapengliu613/LeetCode-Solution/blob/master/Algorithm/Integer%20to%20Roman.java)
 ### 20. [Valid Parentheses](https://github.com/jiapengliu613/LeetCode-Solution/blob/master/Algorithm/%20Valid%20Parentheses.java)
+### 38. [Count and Say](https://github.com/jiapengliu613/LeetCode-Solution/blob/master/Algorithm/Count%20and%20Say.java)
