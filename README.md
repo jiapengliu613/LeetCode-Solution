@@ -38,3 +38,4 @@
 ### 42. [Trapping Rain Water](https://github.com/jiapengliu613/LeetCode-Solution/blob/master/Algorithm/Trapping%20Rain%20Water.java) ``Need Review``
 ### 217. [Contains Duplicate](https://github.com/jiapengliu613/LeetCode-Solution/blob/master/Algorithm/Contains%20Duplicate.java)
 ### 412. [Fizz Buzz](https://github.com/jiapengliu613/LeetCode-Solution/blob/master/Algorithm/Fizz%20Buzz.java)
+### 7. [Reverse Integer](https://github.com/jiapengliu613/LeetCode-Solution/blob/master/Algorithm/Reverse%20Integer.java) ``Need Review (overflow case)``
