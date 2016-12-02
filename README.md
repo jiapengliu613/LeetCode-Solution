@@ -45,3 +45,4 @@
 ### 172. [Factorial Trailing Zeroes](https://github.com/jiapengliu613/LeetCode-Solution/blob/master/Algorithm/Factorial%20Trailing%20Zeroes.java)
 ### 122. [Best Time to Buy and Sell Stock II](https://github.com/jiapengliu613/LeetCode-Solution/blob/master/Algorithm/Best%20Time%20to%20Buy%20and%20Sell%20Stock%20II.java)
 ### 21. [Merge Two Sorted Lists](https://github.com/jiapengliu613/LeetCode-Solution/blob/master/Algorithm/Merge%20Two%20Sorted%20Lists.java)
+### 160. [Intersection of Two Linked Lists](https://github.com/jiapengliu613/LeetCode-Solution/blob/master/Algorithm/Intersection%20of%20Two%20Linked%20Lists.java)
