@@ -48,3 +48,4 @@
 ### 160. [Intersection of Two Linked Lists](https://github.com/jiapengliu613/LeetCode-Solution/blob/master/Algorithm/Intersection%20of%20Two%20Linked%20Lists.java)
 ### 9. [Palindrome Number](https://github.com/jiapengliu613/LeetCode-Solution/blob/master/Algorithm/Palindrome%20Number.java)
 ### 139. [Word Break](https://github.com/jiapengliu613/LeetCode-Solution/blob/master/Algorithm/Word%20Break.java) ``Need Review``
+### 149. [Max Points on a Line](https://github.com/jiapengliu613/LeetCode-Solution/blob/master/Algorithm/Max%20Points%20on%20a%20Line.java) ``Need Review``
