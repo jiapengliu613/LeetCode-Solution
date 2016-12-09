@@ -50,3 +50,4 @@
 ### 139. [Word Break](https://github.com/jiapengliu613/LeetCode-Solution/blob/master/Algorithm/Word%20Break.java) ``Need Review``
 ### 149. [Max Points on a Line](https://github.com/jiapengliu613/LeetCode-Solution/blob/master/Algorithm/Max%20Points%20on%20a%20Line.java) ``Need Review``
 ### 319. [Bulb Switcher](https://github.com/jiapengliu613/LeetCode-Solution/blob/master/Algorithm/Bulb%20Switcher.java)  ``Need Review(Brilliant Idea!)``
+### 153. [Find Minimum in Rotated Sorted Array](https://github.com/jiapengliu613/LeetCode-Solution/blob/master/Algorithm/Find%20Minimum%20in%20Rotated%20Sorted%20Array.java)
