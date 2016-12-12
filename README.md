@@ -53,3 +53,4 @@
 ### 153. [Find Minimum in Rotated Sorted Array](https://github.com/jiapengliu613/LeetCode-Solution/blob/master/Algorithm/Find%20Minimum%20in%20Rotated%20Sorted%20Array.java)
 ### 326. [Power of Three](https://github.com/jiapengliu613/LeetCode-Solution/blob/master/Algorithm/Power%20of%20Three.java)
 ### 137. [Single Number II](https://github.com/jiapengliu613/LeetCode-Solution/blob/master/Algorithm/Single%20Number%20II.java) ``Need Review``
+### 15. [3Sum](https://github.com/jiapengliu613/LeetCode-Solution/blob/master/Algorithm/3Sum.java) ``Need Review``
