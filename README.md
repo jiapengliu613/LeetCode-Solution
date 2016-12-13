@@ -59,3 +59,4 @@
 ### 10. [Regular Expression Matching](https://github.com/jiapengliu613/LeetCode-Solution/blob/master/Algorithm/Regular%20Expression%20Matching.java) ``Need Review``
 ### 150. [Evaluate Reverse Polish Notation](https://github.com/jiapengliu613/LeetCode-Solution/blob/master/Algorithm/Evaluate%20Reverse%20Polish%20Notation.java)
 ### 200. [Number of Islands](https://github.com/jiapengliu613/LeetCode-Solution/blob/master/Algorithm/Number%20of%20Islands.java)
+### 384. [Shuffle an Array](https://github.com/jiapengliu613/LeetCode-Solution/blob/master/Algorithm/Shuffle%20an%20Array.java) ``Need Review``
