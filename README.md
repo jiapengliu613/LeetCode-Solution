@@ -63,3 +63,4 @@
 ### 335. [Self Crossing](https://github.com/jiapengliu613/LeetCode-Solution/blob/master/Algorithm/Self%20Crossing.java) ``Need Review``
 ### 49. [Group Anagrams](https://github.com/jiapengliu613/LeetCode-Solution/blob/master/Algorithm/Group%20Anagrams.java) ``Need Review``
 ### 223. [Rectangle Area](https://github.com/jiapengliu613/LeetCode-Solution/blob/master/Algorithm/Rectangle%20Area.java)
+### 179. [Largest Number](https://github.com/jiapengliu613/LeetCode-Solution/blob/master/Algorithm/Largest%20Number.java) ``Need Review``
