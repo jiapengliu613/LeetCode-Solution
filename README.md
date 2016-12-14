@@ -68,3 +68,4 @@
 ### 17. [Letter Combinations of a Phone Number](https://github.com/jiapengliu613/LeetCode-Solution/blob/master/Algorithm/Letter%20Combinations%20of%20a%20Phone%20Number.java)
 ### 242. [Valid Anagram](https://github.com/jiapengliu613/LeetCode-Solution/blob/master/Algorithm/Valid%20Anagram.java)
 ### 27. [Remove Element](https://github.com/jiapengliu613/LeetCode-Solution/blob/master/Algorithm/Remove%20Element.java)
+### 233. [Number of Digit One](https://github.com/jiapengliu613/LeetCode-Solution/blob/master/Algorithm/Number%20of%20Digit%20One.java) ``Need Review``
