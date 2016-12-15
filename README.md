@@ -76,3 +76,4 @@
 ### 23. [Merge k Sorted Lists](https://github.com/jiapengliu613/LeetCode-Solution/blob/master/Algorithm/Merge%20k%20Sorted%20Lists.java)
 ### 152. [Maximum Product Subarray](https://github.com/jiapengliu613/LeetCode-Solution/blob/master/Algorithm/Maximum%20Product%20Subarray.java) ``Need Review``
 ### 100. [Same Tree](https://github.com/jiapengliu613/LeetCode-Solution/blob/master/Algorithm/Same%20Tree.java)
+### 8. [String to Integer (atoi)](https://github.com/jiapengliu613/LeetCode-Solution/blob/master/Algorithm/String%20to%20Integer%20(atoi).java) ``Need Review(INT_MIN/INT_MAX)``
