@@ -80,3 +80,4 @@
 ### 174. [Binary Search Tree Iterator](https://github.com/jiapengliu613/LeetCode-Solution/blob/master/Algorithm/Binary%20Search%20Tree%20Iterator.java)
 ### 88. [Merge Sorted Array](https://github.com/jiapengliu613/LeetCode-Solution/blob/master/Algorithm/Merge%20Sorted%20Array.java)
 ### 219. [Contains Duplicate II](https://github.com/jiapengliu613/LeetCode-Solution/blob/master/Algorithm/Contains%20Duplicate%20II.java)
+### 22. [Generate Parentheses](https://github.com/jiapengliu613/LeetCode-Solution/blob/master/Algorithm/Generate%20Parentheses.java)
