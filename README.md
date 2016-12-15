@@ -82,3 +82,4 @@
 ### 219. [Contains Duplicate II](https://github.com/jiapengliu613/LeetCode-Solution/blob/master/Algorithm/Contains%20Duplicate%20II.java)
 ### 22. [Generate Parentheses](https://github.com/jiapengliu613/LeetCode-Solution/blob/master/Algorithm/Generate%20Parentheses.java)
 ### 228. [Summary Ranges](https://github.com/jiapengliu613/LeetCode-Solution/blob/master/Algorithm/Summary%20Ranges.java)
+### 287. [Find the Duplicate Number](https://github.com/jiapengliu613/LeetCode-Solution/blob/master/Algorithm/%20Find%20the%20Duplicate%20Number.java) ``Need Review``
