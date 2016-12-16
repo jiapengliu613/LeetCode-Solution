@@ -89,3 +89,4 @@
 ### 96. [Unique Binary Search Trees](https://github.com/jiapengliu613/LeetCode-Solution/blob/master/Algorithm/Unique%20Binary%20Search%20Trees.java) ``Need Review(Brilliant idea)``
 ### 72. [Edit Distance](https://github.com/jiapengliu613/LeetCode-Solution/blob/master/Algorithm/Edit%20Distance.java)
 ### 85. [Maximal Rectangle](https://github.com/jiapengliu613/LeetCode-Solution/blob/master/Algorithm/%20Maximal%20Rectangle.java) ``Need Review``
+### 189. [Rotate Array](https://github.com/jiapengliu613/LeetCode-Solution/blob/master/Algorithm/Rotate%20Array.java)
