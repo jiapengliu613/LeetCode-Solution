@@ -86,3 +86,4 @@
 ### 26. [Remove Duplicates from Sorted Array](https://github.com/jiapengliu613/LeetCode-Solution/blob/master/Algorithm/Remove%20Duplicates%20from%20Sorted%20Array.java)
 ### 387. [First Unique Character in a String](https://github.com/jiapengliu613/LeetCode-Solution/blob/master/Algorithm/First%20Unique%20Character%20in%20a%20String.java) ``Need Review``
 ### 48. [Rotate Image](https://github.com/jiapengliu613/LeetCode-Solution/blob/master/Algorithm/Rotate%20Image.java)
+### 96. [Unique Binary Search Trees](https://github.com/jiapengliu613/LeetCode-Solution/blob/master/Algorithm/Unique%20Binary%20Search%20Trees.java) ``Need Review(Brilliant idea)``
