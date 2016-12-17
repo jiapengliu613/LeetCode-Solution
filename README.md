@@ -94,3 +94,4 @@
 ### 164. [Maximum Gap](https://github.com/jiapengliu613/LeetCode-Solution/blob/master/Algorithm/Maximum%20Gap.java) ``Need Review``
 ### 54. [Spiral Matrix](https://github.com/jiapengliu613/LeetCode-Solution/blob/master/Algorithm/Spiral%20Matrix.java)
 ### 46. [Permutations](https://github.com/jiapengliu613/LeetCode-Solution/blob/master/Algorithm/Permutations.java)
+### 268. [Missing Number](https://github.com/jiapengliu613/LeetCode-Solution/blob/master/Algorithm/Missing%20Number.java)
