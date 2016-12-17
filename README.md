@@ -93,3 +93,4 @@
 ### 33. [Search in Rotated Sorted Array](https://github.com/jiapengliu613/LeetCode-Solution/blob/master/Algorithm/Search%20in%20Rotated%20Sorted%20Array.java)
 ### 164. [Maximum Gap](https://github.com/jiapengliu613/LeetCode-Solution/blob/master/Algorithm/Maximum%20Gap.java) ``Need Review``
 ### 54. [Spiral Matrix](https://github.com/jiapengliu613/LeetCode-Solution/blob/master/Algorithm/Spiral%20Matrix.java)
+### 46. [Permutations](https://github.com/jiapengliu613/LeetCode-Solution/blob/master/Algorithm/Permutations.java)
