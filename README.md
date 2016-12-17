@@ -96,3 +96,4 @@
 ### 46. [Permutations](https://github.com/jiapengliu613/LeetCode-Solution/blob/master/Algorithm/Permutations.java)
 ### 268. [Missing Number](https://github.com/jiapengliu613/LeetCode-Solution/blob/master/Algorithm/Missing%20Number.java)
 ### 56. [Merge Intervals](https://github.com/jiapengliu613/LeetCode-Solution/blob/master/Algorithm/Merge%20Intervals.java)
+### 128. [Longest Consecutive Sequence](https://github.com/jiapengliu613/LeetCode-Solution/blob/master/Algorithm/Longest%20Consecutive%20Sequence.java) ``Need Review``
