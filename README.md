@@ -114,3 +114,4 @@
 ### 188. [Best Time to Buy and Sell Stock IV](https://github.com/jiapengliu613/LeetCode-Solution/blob/master/Algorithm/Best%20Time%20to%20Buy%20and%20Sell%20Stock%20IV.java) ``Need Review``
 ### 263. [Ugly Number](https://github.com/jiapengliu613/LeetCode-Solution/blob/master/Algorithm/Ugly%20Number.java)
 ### 289. [Game of Life](https://github.com/jiapengliu613/LeetCode-Solution/blob/master/Algorithm/Game%20of%20Life.java)
+### 231. [Power of Two](https://github.com/jiapengliu613/LeetCode-Solution/blob/master/Algorithm/Power%20of%20Two.java)
