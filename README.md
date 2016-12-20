@@ -112,3 +112,4 @@
 ### 273. [Integer to English Words](https://github.com/jiapengliu613/LeetCode-Solution/blob/master/Algorithm/Integer%20to%20English%20Words.java) ``Need Review``
 ### 374. [Guess Number Higher or Lower](https://github.com/jiapengliu613/LeetCode-Solution/blob/master/Algorithm/Guess%20Number%20Higher%20or%20Lower.java)
 ### 188. [Best Time to Buy and Sell Stock IV](https://github.com/jiapengliu613/LeetCode-Solution/blob/master/Algorithm/Best%20Time%20to%20Buy%20and%20Sell%20Stock%20IV.java) ``Need Review``
+### 263. [Ugly Number](https://github.com/jiapengliu613/LeetCode-Solution/blob/master/Algorithm/Ugly%20Number.java)
