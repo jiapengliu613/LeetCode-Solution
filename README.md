@@ -118,3 +118,4 @@
 ### 89. [Gray Code](https://github.com/jiapengliu613/LeetCode-Solution/blob/master/Algorithm/Gray%20Code.java) ``Need Review``
 ### 79. [Word Search](https://github.com/jiapengliu613/LeetCode-Solution/blob/master/Algorithm/Word%20Search.java)
 ### 28. [Implement strStr()](https://github.com/jiapengliu613/LeetCode-Solution/blob/master/Algorithm/Implement%20strStr().java)
+### 279. [Perfect Squares](https://github.com/jiapengliu613/LeetCode-Solution/blob/master/Algorithm/Perfect%20Squares.java) ``Need Review``
