@@ -119,3 +119,4 @@
 ### 79. [Word Search](https://github.com/jiapengliu613/LeetCode-Solution/blob/master/Algorithm/Word%20Search.java)
 ### 28. [Implement strStr()](https://github.com/jiapengliu613/LeetCode-Solution/blob/master/Algorithm/Implement%20strStr().java)
 ### 279. [Perfect Squares](https://github.com/jiapengliu613/LeetCode-Solution/blob/master/Algorithm/Perfect%20Squares.java) ``Need Review``
+### 347. [Top K Frequent Elements](https://github.com/jiapengliu613/LeetCode-Solution/blob/master/Algorithm/Top%20K%20Frequent%20Elements.java) ``Need Review(Map.Entry)``
