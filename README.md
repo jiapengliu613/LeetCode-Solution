@@ -117,3 +117,4 @@
 ### 231. [Power of Two](https://github.com/jiapengliu613/LeetCode-Solution/blob/master/Algorithm/Power%20of%20Two.java)
 ### 89. [Gray Code](https://github.com/jiapengliu613/LeetCode-Solution/blob/master/Algorithm/Gray%20Code.java) ``Need Review``
 ### 79. [Word Search](https://github.com/jiapengliu613/LeetCode-Solution/blob/master/Algorithm/Word%20Search.java)
+### 28. [Implement strStr()](https://github.com/jiapengliu613/LeetCode-Solution/blob/master/Algorithm/Implement%20strStr().java)
