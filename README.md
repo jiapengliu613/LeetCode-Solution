@@ -121,3 +121,4 @@
 ### 279. [Perfect Squares](https://github.com/jiapengliu613/LeetCode-Solution/blob/master/Algorithm/Perfect%20Squares.java) ``Need Review``
 ### 347. [Top K Frequent Elements](https://github.com/jiapengliu613/LeetCode-Solution/blob/master/Algorithm/Top%20K%20Frequent%20Elements.java) ``Need Review(Map.Entry)``
 ### 190. [Reverse Bits](https://github.com/jiapengliu613/LeetCode-Solution/blob/master/Algorithm/Reverse%20Bits.java)
+### 229. [Majority Element II](https://github.com/jiapengliu613/LeetCode-Solution/blob/master/Algorithm/Majority%20Element%20II.java) ``Need Review``
