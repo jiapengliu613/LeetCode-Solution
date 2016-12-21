@@ -124,3 +124,4 @@
 ### 229. [Majority Element II](https://github.com/jiapengliu613/LeetCode-Solution/blob/master/Algorithm/Majority%20Element%20II.java) ``Need Review``
 ### 306. [Additive Number](https://github.com/jiapengliu613/LeetCode-Solution/blob/master/Algorithm/Additive%20Number.java) ``Need Review``
 ### 162. [Find Peak Element](https://github.com/jiapengliu613/LeetCode-Solution/blob/master/Algorithm/Find%20Peak%20Element.java)
+### 41. [First Missing Positive](https://github.com/jiapengliu613/LeetCode-Solution/blob/master/Algorithm/First%20Missing%20Positive.java) ``Need Review``
