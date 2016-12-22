@@ -130,3 +130,4 @@
 ### 168. [Excel Sheet Column Title](https://github.com/jiapengliu613/LeetCode-Solution/blob/master/Algorithm/Excel%20Sheet%20Column%20Title.java)
 ### 115. [Distinct Subsequences](https://github.com/jiapengliu613/LeetCode-Solution/blob/master/Algorithm/Distinct%20Subsequences.java)
 ### 236. [Lowest Common Ancestor of a Binary Tree](https://github.com/jiapengliu613/LeetCode-Solution/blob/master/Algorithm/Lowest%20Common%20Ancestor%20of%20a%20Binary%20Tree.java)
+### 120. [Triangle](https://github.com/jiapengliu613/LeetCode-Solution/blob/master/Algorithm/Triangle.java)
