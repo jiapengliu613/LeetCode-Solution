@@ -128,3 +128,4 @@
 ### 204. [Count Primes](https://github.com/jiapengliu613/LeetCode-Solution/blob/master/Algorithm/Count%20Primes.java) ``Need Review``
 ### 69. [Sqrt(x)](https://github.com/jiapengliu613/LeetCode-Solution/blob/master/Algorithm/Sqrt(x).java)
 ### 168. [Excel Sheet Column Title](https://github.com/jiapengliu613/LeetCode-Solution/blob/master/Algorithm/Excel%20Sheet%20Column%20Title.java)
+### 115. [Distinct Subsequences](https://github.com/jiapengliu613/LeetCode-Solution/blob/master/Algorithm/Distinct%20Subsequences.java)
