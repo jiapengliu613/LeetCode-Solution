@@ -137,3 +137,4 @@
 ### 19. [Remove Nth Node From End of List](https://github.com/jiapengliu613/LeetCode-Solution/blob/master/Algorithm/Remove%20Nth%20Node%20From%20End%20of%20List.java)
 ### 134. [Gas Station](https://github.com/jiapengliu613/LeetCode-Solution/blob/master/Algorithm/Gas%20Station.java) ``Need Review``
 ### 128 [Convert Sorted Array to Binary Search Tree](https://github.com/jiapengliu613/LeetCode-Solution/blob/master/Algorithm/Convert%20Sorted%20Array%20to%20Binary%20Search%20Tree.java)
+### 278. [First Bad Version](https://github.com/jiapengliu613/LeetCode-Solution/blob/master/Algorithm/First%20Bad%20Version.java)
