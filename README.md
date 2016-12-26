@@ -147,3 +147,4 @@
 ### 29. [Divide Two Integers](https://github.com/jiapengliu613/LeetCode-Solution/blob/master/Algorithm/Divide%20Two%20Integers.java) ``Need Review(data type conversion)``
 ### 24. [Swap Nodes in Pairs](https://github.com/jiapengliu613/LeetCode-Solution/blob/master/Algorithm/Swap%20Nodes%20in%20Pairs.java)
 ### 140. [Word Break II](https://github.com/jiapengliu613/LeetCode-Solution/blob/master/Algorithm/Word%20Break%20II.java) ``Need Review``
+### 116. [Populating Next Right Pointers in Each Node](https://github.com/jiapengliu613/LeetCode-Solution/blob/master/Algorithm/Populating%20Next%20Right%20Pointers%20in%20Each%20Node.java)
