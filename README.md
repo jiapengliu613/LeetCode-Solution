@@ -159,3 +159,4 @@
 ### 290. [Word Pattern](https://github.com/jiapengliu613/LeetCode-Solution/blob/master/Algorithm/Word%20Pattern.java)
 ### 224. [Basic Calculator](https://github.com/jiapengliu613/LeetCode-Solution/blob/master/Algorithm/Basic%20Calculator.java) ``Need Review``
 ### 232. [Implement Queue using Stacks](https://github.com/jiapengliu613/LeetCode-Solution/blob/master/Algorithm/Implement%20Queue%20using%20Stacks.java)
+### 62. [Unique Paths](https://github.com/jiapengliu613/LeetCode-Solution/blob/master/Algorithm/Unique%20Paths.java)
