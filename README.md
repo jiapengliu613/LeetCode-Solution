@@ -161,3 +161,4 @@
 ### 232. [Implement Queue using Stacks](https://github.com/jiapengliu613/LeetCode-Solution/blob/master/Algorithm/Implement%20Queue%20using%20Stacks.java)
 ### 62. [Unique Paths](https://github.com/jiapengliu613/LeetCode-Solution/blob/master/Algorithm/Unique%20Paths.java)
 ### 215. [Kth Largest Element in an Array](https://github.com/jiapengliu613/LeetCode-Solution/blob/master/Algorithm/Kth%20Largest%20Element%20in%20an%20Array.java) ``Need Review``
+### 214. [Shortest Palindrome](https://github.com/jiapengliu613/LeetCode-Solution/blob/master/Algorithm/Shortest%20Palindrome.java) ``Need Review``
