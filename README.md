@@ -164,3 +164,4 @@
 ### 214. [Shortest Palindrome](https://github.com/jiapengliu613/LeetCode-Solution/blob/master/Algorithm/Shortest%20Palindrome.java) ``Need Review``
 ### 299. [Bulls and Cows](https://github.com/jiapengliu613/LeetCode-Solution/blob/master/Algorithm/Bulls%20and%20Cows.java) ``Need Review``
 ### 282. [Expression Add Operators](https://github.com/jiapengliu613/LeetCode-Solution/blob/master/Algorithm/Expression%20Add%20Operators.java) ``Need Review``
+### 386. [Lexicographical Numbers](https://github.com/jiapengliu613/LeetCode-Solution/blob/master/Algorithm/Lexicographical%20Numbers.java) ``Need Review``
