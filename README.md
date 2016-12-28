@@ -166,3 +166,4 @@
 ### 282. [Expression Add Operators](https://github.com/jiapengliu613/LeetCode-Solution/blob/master/Algorithm/Expression%20Add%20Operators.java) ``Need Review``
 ### 386. [Lexicographical Numbers](https://github.com/jiapengliu613/LeetCode-Solution/blob/master/Algorithm/Lexicographical%20Numbers.java) ``Need Review``
 ### 101. [Symmetric Tree](https://github.com/jiapengliu613/LeetCode-Solution/blob/master/Algorithm/Symmetric%20Tree.java)
+### 31. [Next Permutation](https://github.com/jiapengliu613/LeetCode-Solution/blob/master/Algorithm/Next%20Permutation.java) ``Need Review``
