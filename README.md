@@ -168,3 +168,4 @@
 ### 101. [Symmetric Tree](https://github.com/jiapengliu613/LeetCode-Solution/blob/master/Algorithm/Symmetric%20Tree.java)
 ### 31. [Next Permutation](https://github.com/jiapengliu613/LeetCode-Solution/blob/master/Algorithm/Next%20Permutation.java) ``Need Review``
 ### 59. [Spiral Matrix II](https://github.com/jiapengliu613/LeetCode-Solution/blob/master/Algorithm/Spiral%20Matrix%20II.java)
+### 65. [Valid Number](https://github.com/jiapengliu613/LeetCode-Solution/blob/master/Algorithm/Valid%20Number.java) ``Need Review``
