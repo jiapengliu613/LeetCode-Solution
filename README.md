@@ -174,3 +174,4 @@
 ### 64. [Minimum Path Sum](https://github.com/jiapengliu613/LeetCode-Solution/blob/master/Algorithm/Minimum%20Path%20Sum.java)
 ### 448. [Find All Numbers Disappeared in an Array](https://github.com/jiapengliu613/LeetCode-Solution/blob/master/Algorithm/Find%20All%20Numbers%20Disappeared%20in%20an%20Array.java) ``Need Review``
 ### 83. [Remove Duplicates from Sorted List](https://github.com/jiapengliu613/LeetCode-Solution/blob/master/Algorithm/Remove%20Duplicates%20from%20Sorted%20List.java)
+### 76. [Minimum Window Substring](https://github.com/jiapengliu613/LeetCode-Solution/blob/master/Algorithm/Minimum%20Window%20Substring.java) ``Need Review``
