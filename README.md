@@ -177,3 +177,4 @@
 ### 76. [Minimum Window Substring](https://github.com/jiapengliu613/LeetCode-Solution/blob/master/Algorithm/Minimum%20Window%20Substring.java) ``Need Review``
 ### 315. [Count of Smaller Numbers After Self](https://github.com/jiapengliu613/LeetCode-Solution/blob/master/Algorithm/Count%20of%20Smaller%20Numbers%20After%20Self.java) ``Need Review``
 ### 257. [Binary Tree Paths](https://github.com/jiapengliu613/LeetCode-Solution/blob/master/Algorithm/Binary%20Tree%20Paths.java)
+### 91. [Decode Ways](https://github.com/jiapengliu613/LeetCode-Solution/blob/master/Algorithm/Decode%20Ways.java)
