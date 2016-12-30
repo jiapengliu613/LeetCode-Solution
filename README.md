@@ -170,3 +170,4 @@
 ### 59. [Spiral Matrix II](https://github.com/jiapengliu613/LeetCode-Solution/blob/master/Algorithm/Spiral%20Matrix%20II.java)
 ### 65. [Valid Number](https://github.com/jiapengliu613/LeetCode-Solution/blob/master/Algorithm/Valid%20Number.java) ``Need Review``
 ### 334. [Increasing Triplet Subsequence](https://github.com/jiapengliu613/LeetCode-Solution/blob/master/Algorithm/Increasing%20Triplet%20Subsequence.java) ``Need Review``
+### 166. [Fraction to Recurring Decimal](https://github.com/jiapengliu613/LeetCode-Solution/blob/master/Algorithm/Fraction%20to%20Recurring%20Decimal.java)
