@@ -180,3 +180,4 @@
 ### 91. [Decode Ways](https://github.com/jiapengliu613/LeetCode-Solution/blob/master/Algorithm/Decode%20Ways.java)
 ### 389. [Find the Difference](https://github.com/jiapengliu613/LeetCode-Solution/blob/master/Algorithm/Find%20the%20Difference.java)
 ### 78. [Subsets](https://github.com/jiapengliu613/LeetCode-Solution/blob/master/Algorithm/Subsets.java)
+### 58. [Length of Last Word](https://github.com/jiapengliu613/LeetCode-Solution/blob/master/Algorithm/Length%20of%20Last%20Word.java)
