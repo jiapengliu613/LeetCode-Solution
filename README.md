@@ -183,3 +183,4 @@
 ### 58. [Length of Last Word](https://github.com/jiapengliu613/LeetCode-Solution/blob/master/Algorithm/Length%20of%20Last%20Word.java)
 ### 75. [Sort Colors](https://github.com/jiapengliu613/LeetCode-Solution/blob/master/Algorithm/Sort%20Colors.java) ``Need Review``
 ### 39. [Combination Sum](https://github.com/jiapengliu613/LeetCode-Solution/blob/master/Algorithm/Combination%20Sum.java)
+### 442. [Find All Duplicates in an Array](https://github.com/jiapengliu613/LeetCode-Solution/blob/master/Algorithm/Find%20All%20Duplicates%20in%20an%20Array.java)
