@@ -1,5 +1,6 @@
 public class Solution {
     public int coinChange(int[] coins, int amount) {
+        /*
         if (coins == null || coins.length == 0) {
             return Integer.MAX_VALUE;
         }
@@ -19,12 +20,13 @@ public class Solution {
             }
         }
         return dp[amount] == amount + 1 ? -1 : dp[amount];
-        
-        /* TLE DFS solution
+        */
+        ///* TLE DFS solution
        if (coins == null || coins.length == 0) {
            return Integer.MAX_VALUE;
        } 
-       helper(coins, 0, amount, 0);
+       Arrays.sort(coins);
+       helper(coins, 0, amount, coins.length - 1);
        if (result == Integer.MAX_VALUE) {
            return -1;
        }
@@ -36,7 +38,7 @@ public class Solution {
         if (amount < 0) {
             return;
         }
-        if (index == coins.length && amount != 0) {
+        if (index < 0 && amount != 0) {
             return;
         }
         if (amount == 0) {
@@ -44,10 +46,14 @@ public class Solution {
             return ;
         }
         
-        for (int i = 0; i <= amount / coins[index]; i++) {
-            helper(coins, count + i, amount - i * coins[index], index + 1);
+        for (int i = amount / coins[index]; i >= 0; i--) {
+            int currentCnt = i + count;
+            if (currentCnt > result) {
+                break;
+            }
+            helper(coins, count + i, amount - i * coins[index], index - 1);
         }
-        */
+       // */
         
         
     }
