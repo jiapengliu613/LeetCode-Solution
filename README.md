@@ -190,3 +190,4 @@
 ### 135. [Candy](https://github.com/jiapengliu613/LeetCode-Solution/blob/master/Algorithm/Candy.java) ``Need Review``
 ### 280. [Wiggle Sort](https://github.com/jiapengliu613/LeetCode-Solution/blob/master/Algorithm/Wiggle%20Sort.java)
 ### 123. [Best Time to Buy and Sell Stock III](https://github.com/jiapengliu613/LeetCode-Solution/blob/master/Algorithm/Best%20Time%20to%20Buy%20and%20Sell%20Stock%20III.java) ``Need Review``
+### 318. [Maximum Product of Word Lengths](https://github.com/jiapengliu613/LeetCode-Solution/blob/master/Algorithm/Maximum%20Product%20of%20Word%20Lengths.java) ``Need Review(Smart Trick)``
