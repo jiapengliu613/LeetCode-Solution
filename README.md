@@ -196,3 +196,4 @@
 ### 37. [Sudoku Solver])(https://github.com/jiapengliu613/LeetCode-Solution/blob/master/Algorithm/Sudoku%20Solver.java)``Need Review``
 ### 77. [Combinations](https://github.com/jiapengliu613/LeetCode-Solution/blob/master/Algorithm/Combinations.java)
 ### 327. [Count of Range Sum](https://github.com/jiapengliu613/LeetCode-Solution/blob/master/Algorithm/Count%20of%20Range%20Sum.java) ``Need Review!!``
+### 105. [Construct Binary Tree from Preorder and Inorder Traversal](https://github.com/jiapengliu613/LeetCode-Solution/blob/master/Algorithm/Construct%20Binary%20Tree%20from%20Preorder%20and%20Inorder%20Traversal.java)
