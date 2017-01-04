@@ -193,7 +193,7 @@
 ### 318. [Maximum Product of Word Lengths](https://github.com/jiapengliu613/LeetCode-Solution/blob/master/Algorithm/Maximum%20Product%20of%20Word%20Lengths.java) ``Need Review(Smart Trick)``
 ### 102. [Binary Tree Level Order Traversal](https://github.com/jiapengliu613/LeetCode-Solution/blob/master/Algorithm/Binary%20Tree%20Level%20Order%20Traversal.java)
 ### 421. [Maximum XOR of Two Numbers in an Array](https://github.com/jiapengliu613/LeetCode-Solution/blob/master/Algorithm/Maximum%20XOR%20of%20Two%20Numbers%20in%20an%20Array.java) ``Need Review(Trie)`` 
-### 37. [Sudoku Solver])(https://github.com/jiapengliu613/LeetCode-Solution/blob/master/Algorithm/Sudoku%20Solver.java)``Need Review``
+### 37. [Sudoku Solver](https://github.com/jiapengliu613/LeetCode-Solution/blob/master/Algorithm/Sudoku%20Solver.java)``Need Review``
 ### 77. [Combinations](https://github.com/jiapengliu613/LeetCode-Solution/blob/master/Algorithm/Combinations.java)
 ### 327. [Count of Range Sum](https://github.com/jiapengliu613/LeetCode-Solution/blob/master/Algorithm/Count%20of%20Range%20Sum.java) ``Need Review!!``
 ### 105. [Construct Binary Tree from Preorder and Inorder Traversal](https://github.com/jiapengliu613/LeetCode-Solution/blob/master/Algorithm/Construct%20Binary%20Tree%20from%20Preorder%20and%20Inorder%20Traversal.java)
