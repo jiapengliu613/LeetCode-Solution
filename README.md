@@ -199,3 +199,4 @@
 ### 105. [Construct Binary Tree from Preorder and Inorder Traversal](https://github.com/jiapengliu613/LeetCode-Solution/blob/master/Algorithm/Construct%20Binary%20Tree%20from%20Preorder%20and%20Inorder%20Traversal.java)
 ### 133. [Clone Graph](https://github.com/jiapengliu613/LeetCode-Solution/blob/master/Algorithm/Clone%20Graph.java) ``Need Review`` 
 ### 55. [N-Queens](https://github.com/jiapengliu613/LeetCode-Solution/blob/master/Algorithm/N-Queens.java) ``Need Review``
+### 343. [Integer Break](https://github.com/jiapengliu613/LeetCode-Solution/blob/master/Algorithm/Integer%20Break.java) ``Need Review``
