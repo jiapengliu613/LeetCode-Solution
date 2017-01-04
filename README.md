@@ -201,3 +201,4 @@
 ### 55. [N-Queens](https://github.com/jiapengliu613/LeetCode-Solution/blob/master/Algorithm/N-Queens.java) ``Need Review``
 ### 343. [Integer Break](https://github.com/jiapengliu613/LeetCode-Solution/blob/master/Algorithm/Integer%20Break.java) ``Need Review``
 ### 296. [Best Meeting Point](https://github.com/jiapengliu613/LeetCode-Solution/blob/master/Algorithm/Best%20Meeting%20Point.java) ``Need Review``
+### 208. [Implement Trie (Prefix Tree)](https://github.com/jiapengliu613/LeetCode-Solution/blob/master/Algorithm/Implement%20Trie%20(Prefix%20Tree).java) ``Need Review``
