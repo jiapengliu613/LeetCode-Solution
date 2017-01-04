@@ -200,3 +200,4 @@
 ### 133. [Clone Graph](https://github.com/jiapengliu613/LeetCode-Solution/blob/master/Algorithm/Clone%20Graph.java) ``Need Review`` 
 ### 55. [N-Queens](https://github.com/jiapengliu613/LeetCode-Solution/blob/master/Algorithm/N-Queens.java) ``Need Review``
 ### 343. [Integer Break](https://github.com/jiapengliu613/LeetCode-Solution/blob/master/Algorithm/Integer%20Break.java) ``Need Review``
+### 296. [Best Meeting Point](https://github.com/jiapengliu613/LeetCode-Solution/blob/master/Algorithm/Best%20Meeting%20Point.java) ``Need Review``
