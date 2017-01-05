@@ -207,3 +207,4 @@
 ### 311. [Sparse Matrix Multiplication](https://github.com/jiapengliu613/LeetCode-Solution/blob/master/Algorithm/Sparse%20Matrix%20Multiplication.java) ``Need Review``
 ### 395. [Longest Substring with At Least K Repeating Characters](https://github.com/jiapengliu613/LeetCode-Solution/blob/master/Algorithm/Longest%20Substring%20with%20At%20Least%20K%20Repeating%20Characters.java) ``Need Review``
 ### 201. [Bitwise AND of Numbers Range](https://github.com/jiapengliu613/LeetCode-Solution/blob/master/Algorithm/Bitwise%20AND%20of%20Numbers%20Range.java) ``Need Review``
+### 71. [Simplify Path](https://github.com/jiapengliu613/LeetCode-Solution/blob/master/Algorithm/Simplify%20Path.java)
