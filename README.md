@@ -205,3 +205,4 @@
 ### 309. [Best Time to Buy and Sell Stock with Cooldown](https://github.com/jiapengliu613/LeetCode-Solution/blob/master/Algorithm/Best%20Time%20to%20Buy%20and%20Sell%20Stock%20with%20Cooldown.java) ``Need Review``
 ### 199. [Binary Tree Right Side View](https://github.com/jiapengliu613/LeetCode-Solution/blob/master/Algorithm/Binary%20Tree%20Right%20Side%20View.java)
 ### 311. [Sparse Matrix Multiplication](https://github.com/jiapengliu613/LeetCode-Solution/blob/master/Algorithm/Sparse%20Matrix%20Multiplication.java) ``Need Review``
+### 395. [Longest Substring with At Least K Repeating Characters](https://github.com/jiapengliu613/LeetCode-Solution/blob/master/Algorithm/Longest%20Substring%20with%20At%20Least%20K%20Repeating%20Characters.java) ``Need Review``
