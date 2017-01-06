@@ -214,3 +214,4 @@
 ### 167. [Two Sum II - Input array is sorted](https://github.com/jiapengliu613/LeetCode-Solution/blob/master/Algorithm/Two%20Sum%20II%20-%20Input%20array%20is%20sorted.java)
 ### 84. [Largest Rectangle in Histogram](https://github.com/jiapengliu613/LeetCode-Solution/blob/master/Algorithm/Largest%20Rectangle%20in%20Histogram.java) ``Need Review``
 ### 119. [Pascal's Triangle II](https://github.com/jiapengliu613/LeetCode-Solution/blob/master/Algorithm/Pascal's%20Triangle%20II.java)
+### 34. [Search for a Range](https://github.com/jiapengliu613/LeetCode-Solution/blob/master/Algorithm/Search%20for%20a%20Range.java)
