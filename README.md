@@ -215,3 +215,4 @@
 ### 84. [Largest Rectangle in Histogram](https://github.com/jiapengliu613/LeetCode-Solution/blob/master/Algorithm/Largest%20Rectangle%20in%20Histogram.java) ``Need Review``
 ### 119. [Pascal's Triangle II](https://github.com/jiapengliu613/LeetCode-Solution/blob/master/Algorithm/Pascal's%20Triangle%20II.java)
 ### 34. [Search for a Range](https://github.com/jiapengliu613/LeetCode-Solution/blob/master/Algorithm/Search%20for%20a%20Range.java)
+### 45. [Jump Game II](https://github.com/jiapengliu613/LeetCode-Solution/blob/master/Algorithm/Jump%20Game%20II.java) ``Need Review``
