@@ -222,3 +222,4 @@
 ### 301. [Remove Invalid Parentheses](https://github.com/jiapengliu613/LeetCode-Solution/blob/master/Algorithm/Remove%20Invalid%20Parentheses.java) ``Need Review``
 ### 114. [Flatten Binary Tree to Linked List](https://github.com/jiapengliu613/LeetCode-Solution/blob/master/Algorithm/Flatten%20Binary%20Tree%20to%20Linked%20List.java)
 ### 74. [Search a 2D Matrix](https://github.com/jiapengliu613/LeetCode-Solution/blob/master/Algorithm/Search%20a%202D%20Matrix.java)
+### 52. [N-Queens II](https://github.com/jiapengliu613/LeetCode-Solution/blob/master/Algorithm/N-Queens%20II.java)
