@@ -224,3 +224,4 @@
 ### 74. [Search a 2D Matrix](https://github.com/jiapengliu613/LeetCode-Solution/blob/master/Algorithm/Search%20a%202D%20Matrix.java)
 ### 52. [N-Queens II](https://github.com/jiapengliu613/LeetCode-Solution/blob/master/Algorithm/N-Queens%20II.java)
 ### 30. [Substring with Concatenation of All Words](https://github.com/jiapengliu613/LeetCode-Solution/blob/master/Algorithm/Substring%20with%20Concatenation%20of%20All%20Words.java) ``Need Review``
+### 86. [Partition List](https://github.com/jiapengliu613/LeetCode-Solution/blob/master/Algorithm/Partition%20List.java)
