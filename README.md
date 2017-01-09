@@ -232,3 +232,4 @@
 ### 227. [Basic Calculator II](https://github.com/jiapengliu613/LeetCode-Solution/blob/master/Algorithm/Basic%20Calculator%20II.java) ``Need Review``
 ### 337. [House Robber III](https://github.com/jiapengliu613/LeetCode-Solution/blob/master/Algorithm/House%20Robber%20III.java) ``Need Review``
 ### 97. [Interleaving String](https://github.com/jiapengliu613/LeetCode-Solution/blob/master/Algorithm/Interleaving%20String.java) ``Need Review``
+### 87. [Scramble String](https://github.com/jiapengliu613/LeetCode-Solution/blob/master/Algorithm/Scramble%20String.java) ``Need Review``
