@@ -234,3 +234,4 @@
 ### 97. [Interleaving String](https://github.com/jiapengliu613/LeetCode-Solution/blob/master/Algorithm/Interleaving%20String.java) ``Need Review``
 ### 87. [Scramble String](https://github.com/jiapengliu613/LeetCode-Solution/blob/master/Algorithm/Scramble%20String.java) ``Need Review``
 ### 239. [Sliding Window Maximum](https://github.com/jiapengliu613/LeetCode-Solution/blob/master/Algorithm/Sliding%20Window%20Maximum.java) ``Need Review(Mono-Stack)``
+### 25. [Reverse Nodes in k-Group](https://github.com/jiapengliu613/LeetCode-Solution/blob/master/Algorithm/Reverse%20Nodes%20in%20k-Group.java) 
