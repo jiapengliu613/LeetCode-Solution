@@ -244,3 +244,4 @@
 ### 35. [Search Insert Position](https://github.com/jiapengliu613/LeetCode-Solution/blob/master/Algorithm/Search%20Insert%20Position.java)
 ### 126. [Word Ladder II](https://github.com/jiapengliu613/LeetCode-Solution/blob/master/Algorithm/Word%20Ladder%20II.java) ``Need Review``
 ### 390. [Elimination Game](https://github.com/jiapengliu613/LeetCode-Solution/blob/master/Algorithm/Elimination%20Game.java) ``Need Review``
+### 32. [Longest Valid Parentheses](https://github.com/jiapengliu613/LeetCode-Solution/blob/master/Algorithm/Longest%20Valid%20Parentheses.java) ``Need Review``
