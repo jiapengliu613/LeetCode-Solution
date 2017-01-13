@@ -247,3 +247,4 @@
 ### 32. [Longest Valid Parentheses](https://github.com/jiapengliu613/LeetCode-Solution/blob/master/Algorithm/Longest%20Valid%20Parentheses.java) ``Need Review``
 ### 131. [Palindrome Partitioning](https://github.com/jiapengliu613/LeetCode-Solution/blob/master/Algorithm/Palindrome%20Partitioning.java)
 ### 342. [Power of Four](https://github.com/jiapengliu613/LeetCode-Solution/blob/master/Algorithm/Power%20of%20Four.java)
+### 227. [Find the Celebrity](https://github.com/jiapengliu613/LeetCode-Solution/blob/master/Algorithm/Find%20the%20Celebrity.java) ``Need Review``
