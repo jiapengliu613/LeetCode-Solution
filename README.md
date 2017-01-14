@@ -251,3 +251,4 @@
 ### 380. [Insert Delete GetRandom O(1)](https://github.com/jiapengliu613/LeetCode-Solution/blob/master/Algorithm/Insert%20Delete%20GetRandom%20O(1).java) ``Need Review``
 ### 339. [Nested List Weight Sum](https://github.com/jiapengliu613/LeetCode-Solution/blob/master/Algorithm/Nested%20List%20Weight%20Sum.java)
 ### 253. [Meeting Rooms II](https://github.com/jiapengliu613/LeetCode-Solution/blob/master/Algorithm/Meeting%20Rooms%20II.java) ``Need Review``
+### 61. [Rotate List](https://github.com/jiapengliu613/LeetCode-Solution/blob/master/Algorithm/Rotate%20List.java)
