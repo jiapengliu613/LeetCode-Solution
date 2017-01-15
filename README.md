@@ -253,3 +253,4 @@
 ### 253. [Meeting Rooms II](https://github.com/jiapengliu613/LeetCode-Solution/blob/master/Algorithm/Meeting%20Rooms%20II.java) ``Need Review``
 ### 61. [Rotate List](https://github.com/jiapengliu613/LeetCode-Solution/blob/master/Algorithm/Rotate%20List.java)
 ### 378. [Kth Smallest Element in a Sorted Matrix](https://github.com/jiapengliu613/LeetCode-Solution/blob/master/Algorithm/Kth%20Smallest%20Element%20in%20a%20Sorted%20Matrix.java)
+### 68. [Text Justification](https://github.com/jiapengliu613/LeetCode-Solution/blob/master/Algorithm/Text%20Justification.java) ``Need Review``
