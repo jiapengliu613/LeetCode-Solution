@@ -255,3 +255,4 @@
 ### 378. [Kth Smallest Element in a Sorted Matrix](https://github.com/jiapengliu613/LeetCode-Solution/blob/master/Algorithm/Kth%20Smallest%20Element%20in%20a%20Sorted%20Matrix.java)
 ### 68. [Text Justification](https://github.com/jiapengliu613/LeetCode-Solution/blob/master/Algorithm/Text%20Justification.java) ``Need Review``
 ### 269. [Alien Dictionary](https://github.com/jiapengliu613/LeetCode-Solution/blob/master/Algorithm/Alien%20Dictionary.java) ``Need Review``
+### 300. [Longest Increasing Subsequence](https://github.com/jiapengliu613/LeetCode-Solution/blob/master/Algorithm/Longest%20Increasing%20Subsequence.java) ``Need Review``
