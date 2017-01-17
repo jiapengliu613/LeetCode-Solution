@@ -259,3 +259,4 @@
 ### 174. [Dungeon Game](https://github.com/jiapengliu613/LeetCode-Solution/blob/master/Algorithm/Dungeon%20Game.java) ``Need Review``
 ### 212. [Word Search II](https://github.com/jiapengliu613/LeetCode-Solution/blob/master/Algorithm/Word%20Search%20II.java) ``Need Review``
 ### 250. [Count Univalue Subtrees](https://github.com/jiapengliu613/LeetCode-Solution/blob/master/Algorithm/Count%20Univalue%20Subtrees.java) ``Need Review``
+### 111. [Minimum Depth of Binary Tree](https://github.com/jiapengliu613/LeetCode-Solution/blob/master/Algorithm/Minimum%20Depth%20of%20Binary%20Tree.java)
