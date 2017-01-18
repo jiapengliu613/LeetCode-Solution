@@ -264,3 +264,4 @@
 ### 60. [Permutation Sequence](https://github.com/jiapengliu613/LeetCode-Solution/blob/master/Algorithm/Permutation%20Sequence.java) ``Need Review``
 ### 451. [Sort Characters By Frequency](https://github.com/jiapengliu613/LeetCode-Solution/blob/master/Algorithm/Sort%20Characters%20By%20Frequency.java) ``Need Review``
 ### 281. [Zigzag Iterator](https://github.com/jiapengliu613/LeetCode-Solution/blob/master/Algorithm/Zigzag%20Iterator.java)
+### 284. [Peeking Iterator](https://github.com/jiapengliu613/LeetCode-Solution/blob/master/Algorithm/Peeking%20Iterator.java) ``Need Review``
