@@ -270,3 +270,4 @@
 ### 209. [Minimum Size Subarray Sum](https://github.com/jiapengliu613/LeetCode-Solution/blob/master/Algorithm/Minimum%20Size%20Subarray%20Sum.java)
 ### 445. [Add Two Numbers II](https://github.com/jiapengliu613/LeetCode-Solution/blob/master/Algorithm/Add%20Two%20Numbers%20II.java) ``Need Review``
 ### 207. [Course Schedule](https://github.com/jiapengliu613/LeetCode-Solution/blob/master/Algorithm/Course%20Schedule.java) ``Need Review(Similar to Alien Dict)``
+### 357. [Count Numbers with Unique Digits](https://github.com/jiapengliu613/LeetCode-Solution/blob/master/Algorithm/Count%20Numbers%20with%20Unique%20Digits.java) ``Need Review``
