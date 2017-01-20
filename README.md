@@ -276,3 +276,4 @@
 ### 251. [Flatten 2D Vector](https://github.com/jiapengliu613/LeetCode-Solution/blob/master/Algorithm/Flatten%202D%20Vector.java) ``Need Review``
 ### 330. [Patching Array](https://github.com/jiapengliu613/LeetCode-Solution/blob/master/Algorithm/Patching%20Array.java) ``Need Review``
 ### 94. [Binary Tree Inorder Traversal](https://github.com/jiapengliu613/LeetCode-Solution/blob/master/Algorithm/Binary%20Tree%20Inorder%20Traversal.java)
+### 47. [Permutations II](https://github.com/jiapengliu613/LeetCode-Solution/blob/master/Algorithm/Permutations%20II.java)
