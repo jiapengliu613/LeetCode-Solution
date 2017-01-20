@@ -274,3 +274,4 @@
 ### 372. [Super Pow](https://github.com/jiapengliu613/LeetCode-Solution/blob/master/Algorithm/Super%20Pow.java) ``Need Review``
 ### 274. [H-Index](https://github.com/jiapengliu613/LeetCode-Solution/blob/master/Algorithm/H-Index.java)
 ### 251. [Flatten 2D Vector](https://github.com/jiapengliu613/LeetCode-Solution/blob/master/Algorithm/Flatten%202D%20Vector.java) ``Need Review``
+### 330. [Patching Array](https://github.com/jiapengliu613/LeetCode-Solution/blob/master/Algorithm/Patching%20Array.java) ``Need Review``
