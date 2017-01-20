@@ -277,3 +277,4 @@
 ### 330. [Patching Array](https://github.com/jiapengliu613/LeetCode-Solution/blob/master/Algorithm/Patching%20Array.java) ``Need Review``
 ### 94. [Binary Tree Inorder Traversal](https://github.com/jiapengliu613/LeetCode-Solution/blob/master/Algorithm/Binary%20Tree%20Inorder%20Traversal.java)
 ### 47. [Permutations II](https://github.com/jiapengliu613/LeetCode-Solution/blob/master/Algorithm/Permutations%20II.java)
+### 329. [Longest Increasing Path in a Matrix](https://github.com/jiapengliu613/LeetCode-Solution/blob/master/Algorithm/Longest%20Increasing%20Path%20in%20a%20Matrix.java) ``Need Review``
