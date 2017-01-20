@@ -280,3 +280,4 @@
 ### 329. [Longest Increasing Path in a Matrix](https://github.com/jiapengliu613/LeetCode-Solution/blob/master/Algorithm/Longest%20Increasing%20Path%20in%20a%20Matrix.java) ``Need Review``
 ### 145. [Binary Tree Postorder Traversal](https://github.com/jiapengliu613/LeetCode-Solution/blob/master/Algorithm/Binary%20Tree%20Postorder%20Traversal.java)
 ### 57. [Insert Interval](https://github.com/jiapengliu613/LeetCode-Solution/blob/master/Algorithm/Insert%20Interval.java)
+### 106. [Construct Binary Tree from Inorder and Postorder Traversal](https://github.com/jiapengliu613/LeetCode-Solution/blob/master/Algorithm/Construct%20Binary%20Tree%20from%20Inorder%20and%20Postorder%20Traversal.java)
