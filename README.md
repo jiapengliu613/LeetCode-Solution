@@ -286,3 +286,4 @@
 ### 332. [Reconstruct Itinerary](https://github.com/jiapengliu613/LeetCode-Solution/blob/master/Algorithm/Reconstruct%20Itinerary.java) ``Need Review``
 ### 38. [Linked List Random Node](https://github.com/jiapengliu613/LeetCode-Solution/blob/master/Algorithm/Linked%20List%20Random%20Node.java) ``Need Review``
 ### 130. [Surrounded Regions](https://github.com/jiapengliu613/LeetCode-Solution/blob/master/Algorithm/Surrounded%20Regions.java)
+### 225. [Implement Stack using Queues](https://github.com/jiapengliu613/LeetCode-Solution/blob/master/Algorithm/Implement%20Stack%20using%20Queues.java)
