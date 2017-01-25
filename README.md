@@ -284,3 +284,4 @@
 ### 161. [One Edit Distance](https://github.com/jiapengliu613/LeetCode-Solution/blob/master/Algorithm/One%20Edit%20Distance.java) ``Need Review``
 ### 156. [Binary Tree Upside Down](https://github.com/jiapengliu613/LeetCode-Solution/blob/master/Algorithm/Binary%20Tree%20Upside%20Down.java) ``Need Review``
 ### 332. [Reconstruct Itinerary](https://github.com/jiapengliu613/LeetCode-Solution/blob/master/Algorithm/Reconstruct%20Itinerary.java) ``Need Review``
+### 38. [Linked List Random Node](https://github.com/jiapengliu613/LeetCode-Solution/blob/master/Algorithm/Linked%20List%20Random%20Node.java) ``Need Review``
