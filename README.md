@@ -295,3 +295,4 @@
 ### 394. [Decode String](https://github.com/jiapengliu613/LeetCode-Solution/blob/master/Algorithm/Decode%20String.java) ``Need Review``
 ### 391. [Perfect Rectangle](https://github.com/jiapengliu613/LeetCode-Solution/blob/master/Algorithm/Perfect%20Rectangle.java) ``Need review``
 ### 346. [Moving Average from Data Stream](https://github.com/jiapengliu613/LeetCode-Solution/blob/master/Algorithm/Moving%20Average%20from%20Data%20Stream.java)
+### 325. [Maximum Size Subarray Sum Equals k](https://github.com/jiapengliu613/LeetCode-Solution/blob/master/Algorithm/Maximum%20Size%20Subarray%20Sum%20Equals%20k.java) ``Need Review``
