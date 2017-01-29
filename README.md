@@ -292,3 +292,4 @@
 ### 375. [Guess Number Higher or Lower II](https://github.com/jiapengliu613/LeetCode-Solution/blob/master/Algorithm/Guess%20Number%20Higher%20or%20Lower%20II.java) ``Need Review``
 ### 117. [Populating Next Right Pointers in Each Node II](https://github.com/jiapengliu613/LeetCode-Solution/blob/master/Algorithm/Populating%20Next%20Right%20Pointers%20in%20Each%20Node%20II.java) ``Need Review``
 ### 321. [Create Maximum Number](https://github.com/jiapengliu613/LeetCode-Solution/blob/master/Algorithm/Create%20Maximum%20Number.java) ``Need Review``
+### 394. [Decode String](https://github.com/jiapengliu613/LeetCode-Solution/blob/master/Algorithm/Decode%20String.java) ``Need Review``
