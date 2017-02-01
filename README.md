@@ -304,3 +304,4 @@
 ### 304. [Range Sum Query 2D - Immutable](https://github.com/jiapengliu613/LeetCode-Solution/blob/master/Algorithm/Range%20Sum%20Query%202D%20-%20Immutable.java)
 ### 163. [Missing Ranges](https://github.com/jiapengliu613/LeetCode-Solution/blob/master/Algorithm/Missing%20Ranges.java) ``Need Review``
 ### 313. [Super Ugly Number](https://github.com/jiapengliu613/LeetCode-Solution/blob/master/Algorithm/Super%20Ugly%20Number.java) ``Need Review``
+### 285. [Inorder Successor in BST](https://github.com/jiapengliu613/LeetCode-Solution/blob/master/Algorithm/Inorder%20Successor%20in%20BST.java) ``Need Review``
