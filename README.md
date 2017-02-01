@@ -305,3 +305,4 @@
 ### 163. [Missing Ranges](https://github.com/jiapengliu613/LeetCode-Solution/blob/master/Algorithm/Missing%20Ranges.java) ``Need Review``
 ### 313. [Super Ugly Number](https://github.com/jiapengliu613/LeetCode-Solution/blob/master/Algorithm/Super%20Ugly%20Number.java) ``Need Review``
 ### 285. [Inorder Successor in BST](https://github.com/jiapengliu613/LeetCode-Solution/blob/master/Algorithm/Inorder%20Successor%20in%20BST.java) ``Need Review``
+### 132. [Palindrome Partitioning II](https://github.com/jiapengliu613/LeetCode-Solution/blob/master/Algorithm/Palindrome%20Partitioning%20II.java)
