@@ -312,3 +312,4 @@
 ### 113. [Path Sum II](https://github.com/jiapengliu613/LeetCode-Solution/blob/master/Algorithm/Path%20Sum%20II.java)
 ### 90. [Subsets II](https://github.com/jiapengliu613/LeetCode-Solution/blob/master/Algorithm/Subsets%20II.java)
 ### 103. [Binary Tree Zigzag Level Order Traversal](https://github.com/jiapengliu613/LeetCode-Solution/tree/master/Algorithm)
+### 266. [Palindrome Permutation](https://github.com/jiapengliu613/LeetCode-Solution/blob/master/Algorithm/Palindrome%20Permutation.java)
