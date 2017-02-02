@@ -306,3 +306,4 @@
 ### 313. [Super Ugly Number](https://github.com/jiapengliu613/LeetCode-Solution/blob/master/Algorithm/Super%20Ugly%20Number.java) ``Need Review``
 ### 285. [Inorder Successor in BST](https://github.com/jiapengliu613/LeetCode-Solution/blob/master/Algorithm/Inorder%20Successor%20in%20BST.java) ``Need Review``
 ### 132. [Palindrome Partitioning II](https://github.com/jiapengliu613/LeetCode-Solution/blob/master/Algorithm/Palindrome%20Partitioning%20II.java)
+### 363. [Max Sum of Rectangle No Larger Than K](https://github.com/jiapengliu613/LeetCode-Solution/blob/master/Algorithm/Max%20Sum%20of%20Rectangle%20No%20Larger%20Than%20K.java) ``Need Review``
