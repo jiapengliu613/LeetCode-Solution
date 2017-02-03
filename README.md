@@ -322,3 +322,4 @@
 ### 213. [House Robber II](https://github.com/jiapengliu613/LeetCode-Solution/blob/master/Algorithm/House%20Robber%20II.java) 
 ### 376. [Wiggle Subsequence](https://github.com/jiapengliu613/LeetCode-Solution/blob/master/Algorithm/Wiggle%20Subsequence.java)
 ### 158. [Read N Characters Given Read4 II - Call multiple times](https://github.com/jiapengliu613/LeetCode-Solution/blob/master/Algorithm/Read%20N%20Characters%20Given%20Read4%20II%20-%20Call%20multiple%20times.java) ``Need Review``
+### 340. [Longest Substring with At Most K Distinct Characters](https://github.com/jiapengliu613/LeetCode-Solution/blob/master/Algorithm/Longest%20Substring%20with%20At%20Most%20K%20Distinct%20Characters.java)
