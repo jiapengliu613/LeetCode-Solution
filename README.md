@@ -327,3 +327,4 @@
 ### 244. [Shortest Word Distance II](https://github.com/jiapengliu613/LeetCode-Solution/blob/master/Algorithm/Shortest%20Word%20Distance%20II.java)
 ### 159. [Longest Substring with At Most Two Distinct Characters](https://github.com/jiapengliu613/LeetCode-Solution/blob/master/Algorithm/Longest%20Substring%20with%20At%20Most%20Two%20Distinct%20Characters)
 ### 276. [Paint Fence](https://github.com/jiapengliu613/LeetCode-Solution/blob/master/Algorithm/Paint%20Fence.java) ``Need Review``
+### 170. [Two Sum III - Data structure design](https://github.com/jiapengliu613/LeetCode-Solution/blob/master/Algorithm/Two%20Sum%20III%20-%20Data%20structure%20design.java)
