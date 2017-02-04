@@ -329,3 +329,4 @@
 ### 276. [Paint Fence](https://github.com/jiapengliu613/LeetCode-Solution/blob/master/Algorithm/Paint%20Fence.java) ``Need Review``
 ### 170. [Two Sum III - Data structure design](https://github.com/jiapengliu613/LeetCode-Solution/blob/master/Algorithm/Two%20Sum%20III%20-%20Data%20structure%20design.java)
 ### 286. [Walls and Gates](https://github.com/jiapengliu613/LeetCode-Solution/blob/master/Algorithm/Walls%20and%20Gates.java) ``Need Review``
+### 307. [Range Sum Query - Mutable](https://github.com/jiapengliu613/LeetCode-Solution/blob/master/Algorithm/Range%20Sum%20Query%20-%20Mutable.java) ``Need Review``
