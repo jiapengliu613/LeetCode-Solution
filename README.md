@@ -326,3 +326,4 @@
 ### 298. [Binary Tree Longest Consecutive Sequence](https://github.com/jiapengliu613/LeetCode-Solution/blob/master/Algorithm/Binary%20Tree%20Longest%20Consecutive%20Sequence.java)
 ### 244. [Shortest Word Distance II](https://github.com/jiapengliu613/LeetCode-Solution/blob/master/Algorithm/Shortest%20Word%20Distance%20II.java)
 ### 159. [Longest Substring with At Most Two Distinct Characters](https://github.com/jiapengliu613/LeetCode-Solution/blob/master/Algorithm/Longest%20Substring%20with%20At%20Most%20Two%20Distinct%20Characters)
+### 276. [Paint Fence](https://github.com/jiapengliu613/LeetCode-Solution/blob/master/Algorithm/Paint%20Fence.java) ``Need Review``
