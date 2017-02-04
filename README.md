@@ -334,3 +334,4 @@
 ### 63. [Unique Paths II](https://github.com/jiapengliu613/LeetCode-Solution/blob/master/Algorithm/Unique%20Paths%20II.java)
 ### 352. [Data Stream as Disjoint Intervals](https://github.com/jiapengliu613/LeetCode-Solution/blob/master/Algorithm/Data%20Stream%20as%20Disjoint%20Intervals.java) ``TreeMap/ Need Review``
 ### 362. [Design Hit Counter](https://github.com/jiapengliu613/LeetCode-Solution/blob/master/Algorithm/Design%20Hit%20Counter.java)
+### 275. [H-Index II](https://github.com/jiapengliu613/LeetCode-Solution/blob/master/Algorithm/H-Index%20II.java) ``Need Review``
