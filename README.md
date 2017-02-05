@@ -338,3 +338,4 @@
 ### 373. [Find K Pairs with Smallest Sums](https://github.com/jiapengliu613/LeetCode-Solution/blob/master/Algorithm/Find%20K%20Pairs%20with%20Smallest%20Sums.java) ``Need Review``
 ### 367. [Valid Perfect Square](https://github.com/jiapengliu613/LeetCode-Solution/blob/master/Algorithm/Valid%20Perfect%20Square.java)
 ### 385. [Mini Parser](https://github.com/jiapengliu613/LeetCode-Solution/blob/master/Algorithm/Mini%20Parser.java) ``Need Review``
+### 404. [Sum of Left Leaves](https://github.com/jiapengliu613/LeetCode-Solution/blob/master/Algorithm/Sum%20of%20Left%20Leaves.java)
