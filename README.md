@@ -341,3 +341,4 @@
 ### 404. [Sum of Left Leaves](https://github.com/jiapengliu613/LeetCode-Solution/blob/master/Algorithm/Sum%20of%20Left%20Leaves.java)
 ### 186. [Reverse Words in a String II](https://github.com/jiapengliu613/LeetCode-Solution/blob/master/Algorithm/Reverse%20Words%20in%20a%20String%20II.java)
 ### 259. [3Sum Smaller](https://github.com/jiapengliu613/LeetCode-Solution/blob/master/Algorithm/3Sum%20Smaller.java) ``Need Review``
+### 482. [License Key Formatting](https://github.com/jiapengliu613/LeetCode-Solution/blob/master/Algorithm/License%20Key%20Formatting.java)
