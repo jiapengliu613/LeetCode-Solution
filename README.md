@@ -343,3 +343,4 @@
 ### 259. [3Sum Smaller](https://github.com/jiapengliu613/LeetCode-Solution/blob/master/Algorithm/3Sum%20Smaller.java) ``Need Review``
 ### 482. [License Key Formatting](https://github.com/jiapengliu613/LeetCode-Solution/blob/master/Algorithm/License%20Key%20Formatting.java)
 ### 210. [Course Schedule II](https://github.com/jiapengliu613/LeetCode-Solution/blob/master/Algorithm/Course%20Schedule%20II.java) ``Need Review``
+### 249. [Group Shifted Strings](https://github.com/jiapengliu613/LeetCode-Solution/blob/master/Algorithm/Group%20Shifted%20Strings.java) ``Need Review``
