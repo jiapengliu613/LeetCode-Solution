@@ -346,3 +346,4 @@
 ### 249. [Group Shifted Strings](https://github.com/jiapengliu613/LeetCode-Solution/blob/master/Algorithm/Group%20Shifted%20Strings.java) ``Need Review``
 ### 455. [Assign Cookies](https://github.com/jiapengliu613/LeetCode-Solution/blob/master/Algorithm/Assign%20Cookies.java)
 ### 40. [Combination Sum II](https://github.com/jiapengliu613/LeetCode-Solution/blob/master/Algorithm/Combination%20Sum%20II.java)
+### 400. [Nth Digit](https://github.com/jiapengliu613/LeetCode-Solution/blob/master/Algorithm/Nth%20Digit.java) ``Need Review``
