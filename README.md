@@ -350,3 +350,4 @@
 ### 364. [Nested List Weight Sum II](https://github.com/jiapengliu613/LeetCode-Solution/blob/master/Algorithm/Nested%20List%20Weight%20Sum%20II.java)
 ### 271. [Encode and Decode Strings](https://github.com/jiapengliu613/LeetCode-Solution/blob/master/Algorithm/Encode%20and%20Decode%20Strings.java) ``Need Review``
 ### 314. [Binary Tree Vertical Order Traversal](https://github.com/jiapengliu613/LeetCode-Solution/blob/master/Algorithm/Binary%20Tree%20Vertical%20Order%20Traversal.java) ``Need Review``
+### 331. [Verify Preorder Serialization of a Binary Tree](https://github.com/jiapengliu613/LeetCode-Solution/blob/master/Algorithm/Verify%20Preorder%20Serialization%20of%20a%20Binary%20Tree.java) ``Need Review``
