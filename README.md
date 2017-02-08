@@ -357,3 +357,4 @@
 ### 255. [Verify Preorder Sequence in Binary Search Tree](https://github.com/jiapengliu613/LeetCode-Solution/blob/master/Algorithm/Verify%20Preorder%20Sequence%20in%20Binary%20Search%20Tree.java) ``Need Review``
 ### 447. [Number of Boomerangs](https://github.com/jiapengliu613/LeetCode-Solution/blob/master/Algorithm/Number%20of%20Boomerangs.java)
 ### 392. [Is Subsequence](https://github.com/jiapengliu613/LeetCode-Solution/blob/master/Algorithm/Is%20Subsequence.java) ``Need Review``
+### 414. [Third Maximum Number](https://github.com/jiapengliu613/LeetCode-Solution/blob/master/Algorithm/Third%20Maximum%20Number.java) ``Need Review/Integer Class``
