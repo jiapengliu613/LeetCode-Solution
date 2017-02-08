@@ -359,3 +359,4 @@
 ### 392. [Is Subsequence](https://github.com/jiapengliu613/LeetCode-Solution/blob/master/Algorithm/Is%20Subsequence.java) ``Need Review``
 ### 414. [Third Maximum Number](https://github.com/jiapengliu613/LeetCode-Solution/blob/master/Algorithm/Third%20Maximum%20Number.java) ``Need Review/Integer Class``
 ### 361. [Bomb Enemy](https://github.com/jiapengliu613/LeetCode-Solution/blob/master/Algorithm/Bomb%20Enemy.java)  ``Need Review``
+### 305. [Number of Islands II](https://github.com/jiapengliu613/LeetCode-Solution/blob/master/Algorithm/Number%20of%20Islands%20II.java) ``Union Find/Need Review``
