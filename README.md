@@ -361,3 +361,4 @@
 ### 361. [Bomb Enemy](https://github.com/jiapengliu613/LeetCode-Solution/blob/master/Algorithm/Bomb%20Enemy.java)  ``Need Review``
 ### 305. [Number of Islands II](https://github.com/jiapengliu613/LeetCode-Solution/blob/master/Algorithm/Number%20of%20Islands%20II.java) ``Union Find/Need Review``
 ### 413. [Arithmetic Slices](https://github.com/jiapengliu613/LeetCode-Solution/blob/master/Algorithm/Arithmetic%20Slices.java) ``Need Review``
+### 211. [Add and Search Word - Data structure design](https://github.com/jiapengliu613/LeetCode-Solution/blob/master/Algorithm/Add%20and%20Search%20Word%20-%20Data%20structure%20design.java) ``Need Review``
