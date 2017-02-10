@@ -368,3 +368,4 @@
 ### 403. [Frog Jump](https://github.com/jiapengliu613/LeetCode-Solution/blob/master/Algorithm/Frog%20Jump.java) ``Need Review``
 ### 317. [Shortest Distance from All Buildings](https://github.com/jiapengliu613/LeetCode-Solution/blob/master/Algorithm/Shortest%20Distance%20from%20All%20Buildings%20.java) ``Need Review``
 ### 254. [Factor Combinations](https://github.com/jiapengliu613/LeetCode-Solution/blob/master/Algorithm/Factor%20Combinations.java) ``Need Review``
+### 440. [K-th Smallest in Lexicographical Order](https://github.com/jiapengliu613/LeetCode-Solution/blob/master/Algorithm/K-th%20Smallest%20in%20Lexicographical%20Order%20.java) ``Need Review``
