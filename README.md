@@ -375,3 +375,4 @@
 ### 476. [Number Complement](https://github.com/jiapengliu613/LeetCode-Solution/blob/master/Algorithm/Number%20Complement.java)
 ### 310. [Minimum Height Trees](https://github.com/jiapengliu613/LeetCode-Solution/blob/master/Algorithm/Minimum%20Height%20Trees.java) ``Need Review``
 ### 246. [Strobogrammatic Number](https://github.com/jiapengliu613/LeetCode-Solution/blob/master/Algorithm/Strobogrammatic%20Number.java)
+### 381. [Insert Delete GetRandom O(1) - Duplicates allowed](https://github.com/jiapengliu613/LeetCode-Solution/blob/master/Algorithm/Insert%20Delete%20GetRandom%20O(1)%20-%20Duplicates%20allowed.java) ``Need Review``
