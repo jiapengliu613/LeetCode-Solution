@@ -377,3 +377,4 @@
 ### 246. [Strobogrammatic Number](https://github.com/jiapengliu613/LeetCode-Solution/blob/master/Algorithm/Strobogrammatic%20Number.java)
 ### 381. [Insert Delete GetRandom O(1) - Duplicates allowed](https://github.com/jiapengliu613/LeetCode-Solution/blob/master/Algorithm/Insert%20Delete%20GetRandom%20O(1)%20-%20Duplicates%20allowed.java) ``Need Review``
 ### 459. [Repeated Substring Pattern](https://github.com/jiapengliu613/LeetCode-Solution/blob/master/Algorithm/Repeated%20Substring%20Pattern.java)
+### 355. [Design Twitter](https://github.com/jiapengliu613/LeetCode-Solution/blob/master/Algorithm/Design%20Twitter.java) ``OOD/Need Review``
