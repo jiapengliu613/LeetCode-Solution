@@ -371,3 +371,4 @@
 ### 440. [K-th Smallest in Lexicographical Order](https://github.com/jiapengliu613/LeetCode-Solution/blob/master/Algorithm/K-th%20Smallest%20in%20Lexicographical%20Order%20.java) ``Need Review``
 ### 348. [Design Tic-Tac-Toe](https://github.com/jiapengliu613/LeetCode-Solution/blob/master/Algorithm/Design%20Tic-Tac-Toe.java)
 ### 449. [Serialize and Deserialize BST](https://github.com/jiapengliu613/LeetCode-Solution/blob/master/Algorithm/Serialize%20and%20Deserialize%20BST.java) 
+### 288. [Unique Word Abbreviation](https://github.com/jiapengliu613/LeetCode-Solution/blob/master/Algorithm/Unique%20Word%20Abbreviation.java) ``Need Review``
