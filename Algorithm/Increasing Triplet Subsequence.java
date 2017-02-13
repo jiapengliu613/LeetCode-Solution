@@ -4,6 +4,34 @@ public class Solution {
             return false;
         }
         int n = nums.length;
+        int first = Integer.MAX_VALUE, second = Integer.MAX_VALUE;
+        for (int num : nums) {
+            if (num <= first) {
+                first = num;
+            } else if (num <= second) {
+                second = num;
+            } else {
+                return true;
+            }
+        }
+        return false;
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        /*
         int firstMin = Integer.MAX_VALUE, secondMin = Integer.MAX_VALUE;
         for (int num : nums) {
             if (num <= firstMin) {
@@ -15,5 +43,6 @@ public class Solution {
             }
         }
         return false;
+        */
     }
 }
