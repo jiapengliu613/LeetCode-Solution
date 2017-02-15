@@ -3,6 +3,43 @@ public class Solution {
         if (nums == null || nums.length == 0) {
             return 0;
         }
+        Set<Integer> set = new HashSet<>();
+        for (int num : nums) {
+            set.add(num);
+        }
+        int result = 0;
+        for (int num : nums) {
+            if (set.contains(num)) {
+                set.remove(num);
+                int count = 1;
+                int val = num - 1;
+                while (set.contains(val)) {
+                    count++;
+                    set.remove(val);
+                    val--;
+                }
+                val = num + 1;
+                while (set.contains(val)) {
+                    count++;
+                    set.remove(val);
+                    val++;
+                }
+                result = Math.max(result, count);
+            }
+        }
+        return result;
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        /*
         HashSet<Integer> set = new HashSet<>();
         for (int num : nums) {
             set.add(num);
@@ -28,5 +65,6 @@ public class Solution {
             }
         }
         return result;
+        */
     }
 }
