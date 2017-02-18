@@ -383,3 +383,4 @@
 ### 293. [Flip Game](https://github.com/jiapengliu613/LeetCode-Solution/blob/master/Algorithm/Flip%20Game.java)
 ### 409. [Longest Palindrome](https://github.com/jiapengliu613/LeetCode-Solution/blob/master/Algorithm/Longest%20Palindrome.java) ``Need Review``
 ### 407. [Trapping Rain Water II](https://github.com/jiapengliu613/LeetCode-Solution/blob/master/Algorithm/Trapping%20Rain%20Water%20II.java) ``Need Review``
+### 393. [UTF-8 Validation](https://github.com/jiapengliu613/LeetCode-Solution/blob/master/Algorithm/UTF-8%20Validation.java) ``Need Review``
