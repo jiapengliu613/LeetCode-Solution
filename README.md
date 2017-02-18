@@ -380,3 +380,4 @@
 ### 355. [Design Twitter](https://github.com/jiapengliu613/LeetCode-Solution/blob/master/Algorithm/Design%20Twitter.java) ``OOD/Need Review``
 ### 418. [Sentence Screen Fitting](https://github.com/jiapengliu613/LeetCode-Solution/blob/master/Algorithm/Sentence%20Screen%20Fitting.java) ``Need Review``
 ### 485. [Max Consecutive Ones](https://github.com/jiapengliu613/LeetCode-Solution/blob/master/Algorithm/Max%20Consecutive%20Ones.java)
+### 293. [Flip Game](https://github.com/jiapengliu613/LeetCode-Solution/blob/master/Algorithm/Flip%20Game.java)
