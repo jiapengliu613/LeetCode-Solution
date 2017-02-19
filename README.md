@@ -387,3 +387,4 @@
 ### 365. [Water and Jug Problem](https://github.com/jiapengliu613/LeetCode-Solution/blob/master/Algorithm/Water%20and%20Jug%20Problem.java)
 ### 481. [Magical String](https://github.com/jiapengliu613/LeetCode-Solution/blob/master/Algorithm/Magical%20String.java)
 ### 492. [Construct the Rectangle](https://github.com/jiapengliu613/LeetCode-Solution/blob/master/Algorithm/Construct%20the%20Rectangle.java)
+### 366. [Find Leaves of Binary Tree](https://github.com/jiapengliu613/LeetCode-Solution/blob/master/Algorithm/Find%20Leaves%20of%20Binary%20Tree.java) ``Need Review``
