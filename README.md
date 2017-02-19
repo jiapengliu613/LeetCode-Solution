@@ -385,3 +385,4 @@
 ### 407. [Trapping Rain Water II](https://github.com/jiapengliu613/LeetCode-Solution/blob/master/Algorithm/Trapping%20Rain%20Water%20II.java) ``Need Review``
 ### 393. [UTF-8 Validation](https://github.com/jiapengliu613/LeetCode-Solution/blob/master/Algorithm/UTF-8%20Validation.java) ``Need Review``
 ### 365. [Water and Jug Problem](https://github.com/jiapengliu613/LeetCode-Solution/blob/master/Algorithm/Water%20and%20Jug%20Problem.java)
+### 481. [Magical String](https://github.com/jiapengliu613/LeetCode-Solution/blob/master/Algorithm/Magical%20String.java)
