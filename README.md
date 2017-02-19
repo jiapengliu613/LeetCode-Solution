@@ -390,3 +390,4 @@
 ### 366. [Find Leaves of Binary Tree](https://github.com/jiapengliu613/LeetCode-Solution/blob/master/Algorithm/Find%20Leaves%20of%20Binary%20Tree.java) ``Need Review``
 ### 272. [Closest Binary Search Tree Value II](https://github.com/jiapengliu613/LeetCode-Solution/blob/master/Algorithm/Closest%20Binary%20Search%20Tree%20Value%20II.java) ``Need Review``
 ### 423. [Reconstruct Original Digits from English](https://github.com/jiapengliu613/LeetCode-Solution/blob/master/Algorithm/Reconstruct%20Original%20Digits%20from%20English.java)
+### 496. [Next Greater Element I](https://github.com/jiapengliu613/LeetCode-Solution/blob/master/Algorithm/Next%20Greater%20Element%20I.java) ``Need Review``
