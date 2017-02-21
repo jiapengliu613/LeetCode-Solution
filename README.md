@@ -396,3 +396,4 @@
 ### 438. [Find All Anagrams in a String](https://github.com/jiapengliu613/LeetCode-Solution/blob/master/Algorithm/Find%20All%20Anagrams%20in%20a%20String.java)
 ### 24. [Number of Segments in a String](https://github.com/jiapengliu613/LeetCode-Solution/blob/master/Algorithm/Number%20of%20Segments%20in%20a%20String.java) 
 ### 351. [Android Unlock Patterns](https://github.com/jiapengliu613/LeetCode-Solution/blob/master/Algorithm/Android%20Unlock%20Patterns.java) ``Need Review``
+### 397. [Integer Replacement](https://github.com/jiapengliu613/LeetCode-Solution/blob/master/Algorithm/Integer%20Replacement.java) ``Need Review``
