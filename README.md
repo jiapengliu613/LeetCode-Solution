@@ -395,3 +395,4 @@
 ### 398. [Random Pick Index](https://github.com/jiapengliu613/LeetCode-Solution/blob/master/Algorithm/Random%20Pick%20Index.java) ``Need Review``
 ### 438. [Find All Anagrams in a String](https://github.com/jiapengliu613/LeetCode-Solution/blob/master/Algorithm/Find%20All%20Anagrams%20in%20a%20String.java)
 ### 24. [Number of Segments in a String](https://github.com/jiapengliu613/LeetCode-Solution/blob/master/Algorithm/Number%20of%20Segments%20in%20a%20String.java) 
+### 351. [Android Unlock Patterns](https://github.com/jiapengliu613/LeetCode-Solution/blob/master/Algorithm/Android%20Unlock%20Patterns.java) ``Need Review``
