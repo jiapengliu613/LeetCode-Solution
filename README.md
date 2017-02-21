@@ -392,3 +392,4 @@
 ### 423. [Reconstruct Original Digits from English](https://github.com/jiapengliu613/LeetCode-Solution/blob/master/Algorithm/Reconstruct%20Original%20Digits%20from%20English.java)
 ### 496. [Next Greater Element I](https://github.com/jiapengliu613/LeetCode-Solution/blob/master/Algorithm/Next%20Greater%20Element%20I.java) ``Need Review``
 ### 500. [Keyboard Row](https://github.com/jiapengliu613/LeetCode-Solution/blob/master/Algorithm/Keyboard%20Row.java)
+### 398. [Random Pick Index](https://github.com/jiapengliu613/LeetCode-Solution/blob/master/Algorithm/Random%20Pick%20Index.java) ``Need Review``
