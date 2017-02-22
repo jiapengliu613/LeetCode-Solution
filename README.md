@@ -405,3 +405,4 @@
 ### 454. [4Sum II](https://github.com/jiapengliu613/LeetCode-Solution/blob/master/Algorithm/4Sum%20II.java)
 ### 475. [Heaters](https://github.com/jiapengliu613/LeetCode-Solution/blob/master/Algorithm/Heaters.java) ``Need Review``
 ### 416. [Partition Equal Subset Sum](https://github.com/jiapengliu613/LeetCode-Solution/blob/master/Algorithm/Partition%20Equal%20Subset%20Sum.java)
+### 506. [Relative Ranks](https://github.com/jiapengliu613/LeetCode-Solution/blob/master/Algorithm/Relative%20Ranks.java)
