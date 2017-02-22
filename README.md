@@ -400,3 +400,4 @@
 ### 441. [Arranging Coins](https://github.com/jiapengliu613/LeetCode-Solution/blob/master/Algorithm/Arranging%20Coins.java)
 ### 267. [Palindrome Permutation II](https://github.com/jiapengliu613/LeetCode-Solution/blob/master/Algorithm/Palindrome%20Permutation%20II.java) ``Need Review``
 ### 452. [Minimum Number of Arrows to Burst Balloons](https://github.com/jiapengliu613/LeetCode-Solution/blob/master/Algorithm/Minimum%20Number%20of%20Arrows%20to%20Burst%20Balloons.java) ``Need Review``
+### 359. [Logger Rate Limiter](https://github.com/jiapengliu613/LeetCode-Solution/blob/master/Algorithm/Logger%20Rate%20Limiter.java)
