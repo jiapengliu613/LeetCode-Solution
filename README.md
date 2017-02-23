@@ -410,3 +410,4 @@
 ### 474. [Ones and Zeroes](https://github.com/jiapengliu613/LeetCode-Solution/blob/master/Algorithm/Ones%20and%20Zeroes.java) ``Need Review``
 ### 474. [Ones and Zeroes](https://github.com/jiapengliu613/LeetCode-Solution/blob/master/Algorithm/Ones%20and%20Zeroes.java) ``Need Review``
 ### 265. [Paint House II](https://github.com/jiapengliu613/LeetCode-Solution/blob/master/Algorithm/Paint%20House%20II.java)
+### 456. [132 Pattern](https://github.com/jiapengliu613/LeetCode-Solution/blob/master/Algorithm/132%20Pattern.java) ``Need Review``
