@@ -419,3 +419,4 @@
 ### 245. [Shortest Word Distance III](https://github.com/jiapengliu613/LeetCode-Solution/blob/master/Algorithm/Shortest%20Word%20Distance%20III.java)
 ### 370. [Range Addition](https://github.com/jiapengliu613/LeetCode-Solution/blob/master/Algorithm/Range%20Addition.java) ``Need Review``
 ### 408. [Valid Word Abbreviation](https://github.com/jiapengliu613/LeetCode-Solution/blob/master/Algorithm/Valid%20Word%20Abbreviation.java) ``Need Review``
+### 484. [Find Permutation](https://github.com/jiapengliu613/LeetCode-Solution/blob/master/Algorithm/Find%20Permutation.java) ``Need Review``
