@@ -418,3 +418,4 @@
 ### 302. [Smallest Rectangle Enclosing Black Pixels](https://github.com/jiapengliu613/LeetCode-Solution/blob/master/Algorithm/Smallest%20Rectangle%20Enclosing%20Black%20Pixels.java) ``Need Review``
 ### 245. [Shortest Word Distance III](https://github.com/jiapengliu613/LeetCode-Solution/blob/master/Algorithm/Shortest%20Word%20Distance%20III.java)
 ### 370. [Range Addition](https://github.com/jiapengliu613/LeetCode-Solution/blob/master/Algorithm/Range%20Addition.java) ``Need Review``
+### 408. [Valid Word Abbreviation](https://github.com/jiapengliu613/LeetCode-Solution/blob/master/Algorithm/Valid%20Word%20Abbreviation.java) ``Need Review``
